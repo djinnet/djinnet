@@ -11,6 +11,7 @@ I have been in software industry for 4 year, but I have learned software since I
 * 🧠  I'm learning game design and gameplay
 * 🤝  I'm open to collaborating on game jams
 * ⚡  I am deaf.
+* ⚡  I created Deaf Sauce and Lampspirit website for fun. [Deaf Sauce](https://deafsauce.com/) & [Lampspirit](https://lampspirit.dk)
 
 <a href="https://www.twitch.tv/djinnet" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/djinnet?logo=twitchsx&style=for-the-badge&color=f97316&labelColor=181824&label=TWITCH+STATUS" /></a>
